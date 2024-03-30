@@ -13,7 +13,8 @@
 ## help
 
 ## status
-
+        $ git status #определим состояния файлов
+        $ git status -s #сокращенный вывод статуса
 ## commit
 
 ## rm
