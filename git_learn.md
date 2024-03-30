@@ -15,6 +15,7 @@
     $ git diff --staged #что мы индексировали что войдет в следующий коммит (--staged и--cached синонимы)
 ## log
 
+
 ## checkout
 
 ## config
