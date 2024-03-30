@@ -59,3 +59,13 @@
 ## reset & restore
 
 ## Наиболее часто употребляемые мной команды
+        git init
+        git add [файл]
+        git commit -m "комментарий"
+        git branch
+        git branch [имя файл] #создать ветку
+        git branch -d [имя файла] #удалить ветку
+        git status
+        git log --oneline --graph
+        git checkout [название ветки]
+        git merge
