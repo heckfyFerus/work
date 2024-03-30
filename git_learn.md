@@ -63,11 +63,6 @@
         $ git branch --move master main #переименуем ветку мастер в маин
          $ git branch --all #посмотрим на какой ветке мы сейчас находимся
 
-## push
-
-## fetch
-
-## reset & restore
 
 ## Наиболее часто употребляемые мной команды
         git init
