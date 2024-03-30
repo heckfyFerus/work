@@ -49,6 +49,10 @@
 ## rm
 
 ## remote
+        $ git remote show origin #посмотреть инфо об удаленном репозитории
+        $ git remote rename pb paul #переименовать удаленный репозиторий pb в paul 
+        $ git remote add pb https://github.com/paulboone/ticgit #добавим удаленный репозиторий и присвоим ему имя
+        $ git remote -v #посмотреть удаленные репозитории
 
 ## branch
 
