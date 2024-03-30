@@ -51,6 +51,10 @@
         $ git rm --cached [файл] #Убирает конкретный файл из контроля версий, но физически оставляет его на своём месте
         $ git rm log/\*.log #можно удалять каталоги и шаблоны или так $ git rm \*~
 ## remote
+        $ git remote show origin #посмотреть инфо об удаленном репозитории
+        $ git remote rename pb paul #переименовать удаленный репозиторий pb в paul 
+        $ git remote add pb https://github.com/paulboone/ticgit #добавим удаленный репозиторий и присвоим ему имя
+        $ git remote -v #посмотреть удаленные репозитории
 
 ## branch
 
